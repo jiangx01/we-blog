@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>jiang</name>
+  </author>
+  <generator uri="https://hexo.io/">jiang</generator>
+  <id>https://jiangx01.github.io/we-blog/</id>
+  <link href="https://jiangx01.github.io/we-blog/" rel="alternate"/>
+  <link href="https://jiangx01.github.io/we-blog/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, jiang</rights>
+  <subtitle>这里是我的个人博客，记录技术学习、生活思考和灵感碎片。</subtitle>
+  <title>jiang</title>
+  <updated>2026-06-07T08:46:54.444Z</updated>
+  <entry>
+    <author>
+      <name>jiang</name>
+    </author>
+    <category term="生活" scheme="https://jiangx01.github.io/we-blog/categories/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://jiangx01.github.io/we-blog/tags/%E9%9A%8F%E7%AC%94/"/>
+    <content>
+      <![CDATA[<h2 id="你好，世界"><a href="#你好，世界" class="headerlink" title="你好，世界"></a>你好，世界</h2><p>这是我的第一篇博客文章。</p><p>这个博客将记录我在技术学习、项目实践中的收获与思考，也会分享一些生活中的感悟和灵感。</p><h3 id="博客规划"><a href="#博客规划" class="headerlink" title="博客规划"></a>博客规划</h3><ul><li><strong>技术笔记</strong>：编程语言、框架、工具链的学习总结</li><li><strong>项目实战</strong>：实际项目中的经验与踩坑记录</li><li><strong>生活思考</strong>：阅读、观影、旅行的随想</li></ul><p>希望这个小小的空间能成为知识沉淀与思想交流的地方。</p><p>欢迎通过 <a href="/about">关于</a> 页面了解更多，或通过评论与我互动！</p>]]>
+    </content>
+    <id>https://jiangx01.github.io/we-blog/2026/06/07/hello-world/</id>
+    <link href="https://jiangx01.github.io/we-blog/2026/06/07/hello-world/"/>
+    <published>2026-06-07T08:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="你好，世界"><a href="#你好，世界" class="headerlink" title="你好，世界"></a>你好，世界</h2><p>这是我的第一篇博客文章。</p>
+<p>这个博客将记录我在技术学习、项目实践中的收获与思考，也会分享一些生活中的感悟]]>
+    </summary>
+    <title>欢迎来到我的博客</title>
+    <updated>2026-06-07T08:46:54.444Z</updated>
+  </entry>
+</feed>
